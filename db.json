@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "p@p.com",
+      "password": "$2a$10$ypA2c0dSuZ/f7c80LylgjefTXDtcP7w8dOk6wxXUIKULkIKtgIB2i",
+      "firstname": "Reka",
+      "lastname": "Demeter",
+      "id": 1
+    },
+    {
+      "email": "zsoltd.com@gmail.com",
+      "password": "$2a$10$3zwoexax48KIRfnI0YSPdO7VufnyUHZ./jdqFmPNvZaIuBao2lg2W",
+      "firstname": "Zsolt",
+      "lastname": "Demeter",
+      "id": 2
+    },
+    {
+      "email": "zsoltd.com@gmail.hu",
+      "password": "$2a$10$yDV9lywsh9UEUakeHKqTnu8WU.l10etu9cvqtaXKL2jRW7IRcp3a2",
+      "firstname": "Zsolt",
+      "lastname": "Demeter",
+      "id": 3
+    },
+    {
+      "email": "nagyheureka@yahoo.com",
+      "password": "$2a$10$rj6TFnFHdMiigJUjGt1DGuGFer6CDGvDpkhLgLydV7m03mNc0UYsu",
+      "firstname": "Reka",
+      "lastname": "Demeter",
+      "id": 4
+    },
+    {
+      "email": "zsoltd.com@gmail.ro",
+      "password": "$2a$10$re6y9y9i1pzBOpwTdwE.ROvgk3KFfZZYICwDrOO7xR.d4VbJuQSmK",
+      "firstname": "Zsolt",
+      "lastname": "Demeter",
+      "id": 5
+    },
+    {
+      "email": "reka@reka.com",
+      "password": "$2a$10$H/1T/2d60ICHKCLcNZNER.Z0uR30ep/dSPza.h8w6BU8.Rsco.qK6",
+      "firstname": "reka",
+      "lastname": "reka",
+      "id": 6
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": " test Brownie",
+      "ingridents": "4 eggs, 2 cup sugar, 1 1/5 cup flour, 1 cup cacao, milk, 1 butter",
+      "instructions": "First mix the dry ingredients together. Add the eggs, melted butter and as much milk as needed to be able to pour the batter.",
+      "baking_time": "30 minutes",
+      "image": "https://img.taste.com.au/gOpVgvz8/taste/2016/11/classic-chewy-brownie-102727-1.jpeg",
+      "bakingtime": "30 min"
+    },
+    {
+      "name": "test",
+      "ingridents": "test",
+      "instructions": "test",
+      "bakingtime": "testt",
+      "image": "est",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Muffin",
+      "ingridents": "2 eggs, 125 ml vegetable oil, 250 g sugar, 400 g flour, 100 chocolate chips, 250 ml milk",
+      "instructions": "Mix the wet ingredients together, then add the sugar and finally the flour. Mix until smooth than bake on 200C.",
+      "bakingtime": "20-25 Minutes",
+      "image": "https://www.inspiredtaste.net/wp-content/uploads/2016/10/Easy-Blueberry-Muffin-Recipe-1-1200.jpg",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "test",
+      "ingridents": "rteste",
+      "instructions": "test",
+      "bakingtime": "test",
+      "image": "test",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "name": "test",
+      "ingridents": "frs",
+      "instructions": "vdvsvv",
+      "bakingtime": "ds",
+      "image": "vfvs",
+      "userId": 4,
+      "id": 8
+    },
+    {
+      "name": "Banana bread",
+      "ingridents": "3 medium bananas, 76g butter, 1/2 teaspoon baking soda, 150g sugar, 1 egg, 205g flour, 1 pinch salt",
+      "instructions": "Mash the bananas, mix with the butter salt and baking soda. Than add the beaten eggs sugar and finally the flour. Bake at 175C",
+      "bakingtime": "55-65 Minutes",
+      "image": "https://www.simplyrecipes.com/thmb/qQZKziOB59OIetXjapaxBvrFzZE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Easy-Banana-Bread-LEAD-2-2-63dd39af009945d58f5bf4c2ae8d6070.jpg",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "ingridents": "240g flour,1/4 teaspoon baking powder, 1/4 teaspoon baking soda, 200g brown sugar, 150g white sugar, 227g melted butter, 2 eggs, 190 chocolate chips",
+      "instructions": "Mix the dry and wet ingredients together, then mix the two together. Let the dough rest for 15 minutes. Scoop the dough onto baking sheet with big space between and bake on 160C. ",
+      "bakingtime": "5 Minutes",
+      "image": "https://www.simplyrecipes.com/thmb/0x05eO8CJoOGebnJPuIHMwObRkk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__09__Crispy-Chocolate-Chip-LEAD-6-f2751783a8ef46408c053932ff15cc70.jpg",
+      "userId": 1,
+      "id": 10
+    }
+  ]
+}
